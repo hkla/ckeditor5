@@ -30,6 +30,7 @@
     "@ckeditor/ckeditor5-autoformat": "^32.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^32.0.0",
     "@ckeditor/ckeditor5-block-quote": "^32.0.0",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^33.0.0",
     "@ckeditor/ckeditor5-ckfinder": "^32.0.0",
     "@ckeditor/ckeditor5-cloud-services": "^32.0.0",
     "@ckeditor/ckeditor5-easy-image": "^32.0.0",
